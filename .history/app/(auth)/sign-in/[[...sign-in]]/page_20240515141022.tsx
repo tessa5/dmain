@@ -3,12 +3,8 @@ import React from 'react'
 
 const SignInPage = () => {
   return 
-  <>
-  <h1>this is rendering</h1>
-    <SignIn />
-    
-  </>
-  
+  <></>
+  <SignIn />
 }
 
 export default SignInPage

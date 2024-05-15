@@ -4,9 +4,8 @@ import React from 'react'
 const SignInPage = () => {
   return 
   <>
-  <h1>this is rendering</h1>
     <SignIn />
-    
+    <h1>this is </h1>
   </>
   
 }
